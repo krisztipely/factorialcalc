@@ -49,4 +49,4 @@ Incorporate user input to make the factorial calculator more interactive and ver
 This "Factorial Calculator" is a handy tool for computing factorials in a straightforward manner. Use it as is or tailor it to meet your specific requirements.
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/factorialcalc/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
